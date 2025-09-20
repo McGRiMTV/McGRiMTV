@@ -15,5 +15,4 @@ Hi! My name is Spencer, AKA McGRiM. I am a full stack developer that started out
 
 ## Github Stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=mcgrimtv&show_icons=true&theme=radical)](https://github.com/mcgrimtv) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcgrimtv&layout=compact&theme=radical)](https://github.com/mcgrimtv) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madebyatlas&layout=compact&theme=radical)](https://github.com/madebyatlas)
-
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=mcgrimtv&show_icons=true&theme=radical)](https://github.com/mcgrimtv) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcgrimtv&layout=compact&theme=radical)](https://github.com/mcgrimtv)
