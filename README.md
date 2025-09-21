@@ -5,13 +5,13 @@ Hi! My name is Spencer, AKA McGRiM. I am a full stack developer that started out
 
 ## My Projects
 - Lenny, Powerful and modular Discord logging bot
-  - https://madebyatlas.dev/lenny
+  - https://madebyatlas.dev/lenny [[DOCS](https://docs.madebyatlas.dev/docs/category/lenny-bot)]
 - Ban Database, Advanced auto moderation database Discord bot
-  - https://madebyatlas.dev/ban-database
+  - https://madebyatlas.dev/ban-database [[DOCS](https://docs.madebyatlas.dev/docs/category/ban-database-bot)]
 - Atlas API
-  - https://api.madebyatlas.dev [DOCS](https://docs.madebyatlas.dev/docs/category/api)
+  - https://api.madebyatlas.dev [[DOCS](https://docs.madebyatlas.dev/docs/category/api)]
 - Discord Embed Builder
-  - https://embed.madebyatlas.dev
+  - https://embed.madebyatlas.dev [[DOCS](https://docs.madebyatlas.dev/docs/category/embed-builder)]
 
 ## Github Stats
 
