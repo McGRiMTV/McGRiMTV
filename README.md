@@ -10,8 +10,10 @@ Hi! My name is Spencer, AKA McGRiM. I am a full stack developer that started out
   - https://madebyatlas.dev/ban-database [[DOCS](https://docs.madebyatlas.dev/docs/category/ban-database-bot)]
 - Atlas API
   - https://api.madebyatlas.dev [[DOCS](https://docs.madebyatlas.dev/docs/category/api)]
-- Discord Embed Builder
-  - https://embed.madebyatlas.dev [[DOCS](https://docs.madebyatlas.dev/docs/category/embed-builder)]
+- Discord Utilities
+  - https://utils.madebyatlas.dev [[DOCS](https://docs.madebyatlas.dev/docs/category/discord-utilities)] 
+- Custom image host
+  - [Source code](https://github.com/McGRiMTV/custom-image-host)
 
 ## Github Stats
 
