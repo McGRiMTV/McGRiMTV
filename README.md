@@ -12,8 +12,8 @@ Hi! My name is Spencer, AKA McGRiM. I am a full stack developer that started out
   - https://api.madebyatlas.dev [[DOCS](https://docs.madebyatlas.dev/docs/category/api)]
 - Discord Utilities
   - https://utils.madebyatlas.dev [[DOCS](https://docs.madebyatlas.dev/docs/category/discord-utilities)] 
-- Custom image host
-  - [Source code](https://github.com/McGRiMTV/custom-image-host)
+- Custom uploader for ShareX
+  - [Source code](https://github.com/McGRiMTV/sharex-uploader)
 
 ## Github Stats
 
